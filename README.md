@@ -57,12 +57,8 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muthuwebdeveloper13&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthuwebdeveloper13&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=muthuwebdeveloper13&theme=github-dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muthuwebdeveloper13&show_icons=true&hide_border=false" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthuwebdeveloper13&layout=compact&hide_border=false" />
 </p>
 
 ## 🚀 Featured Projects
