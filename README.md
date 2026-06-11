@@ -1,9 +1,5 @@
-# Hi there, I'm a Computer Science Scholar & Full-Stack Developer! 👋
+# 👋 Hi, I'm Muthu
 
-<p align="left">
-  <img src="https://profile-counter.glitch.me/muthuwebdeveloper13/count.svg" alt="Profile Views" />
-</p>
+### 🎓 PG Computer Science Student
 
-> *“Knowledge is the ultimate wealth that cannot be stolen or diminished.”*
-
----
+### 💻 Aspiring Full-Stack Developer (MERN Stack)
