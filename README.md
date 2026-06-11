@@ -91,7 +91,12 @@
   <a href="https://github.com/muthuwebdeveloper13">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/muthukumar-k13">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
+</p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muthuwebdeveloper13&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
 </p>
