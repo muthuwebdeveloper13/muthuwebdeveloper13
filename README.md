@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Pursuing a Postgraduate degree in Computer Science.
+* 🎓 Postgraduate in Computer Science with a strong interest in software development.
 * 💻 Passionate about full-stack web development using the MERN stack.
 * 🧠 Continuously improving problem-solving and Data Structures & Algorithms skills.
 * ⚡ Building responsive, scalable, and user-friendly web applications with modern technologies.
