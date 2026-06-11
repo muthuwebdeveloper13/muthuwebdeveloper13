@@ -53,3 +53,45 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muthuwebdeveloper13&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthuwebdeveloper13&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=muthuwebdeveloper13&theme=github-dark&hide_border=true" />
+</p>
+
+## 🚀 Featured Projects
+
+### 🌐 Portfolio Website
+
+* Personal portfolio showcasing my skills, projects, and experience.
+* **Tech:** HTML, CSS, JavaScript
+
+### ✅ MERN Task Manager
+
+* A full-stack task management application with authentication and CRUD functionality.
+* **Tech:** MongoDB, Express.js, React, Node.js
+
+### 📚 Library Management System
+
+* A web application for managing books, users, and lending operations.
+* **Tech:** React, Node.js, Express.js, MongoDB
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:your-email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
+  </a>
+  <a href="https://github.com/muthuwebdeveloper13">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+</p>
