@@ -26,31 +26,31 @@
 
 ### 💻 Programming Languages
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
 </p>
 
 ### 🎨 Frontend Development
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
 ### ⚙️ Backend Development
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄️ Databases
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### 🔧 Tools & Platforms
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
@@ -84,7 +84,7 @@
 
 ## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:your-email@example.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
   </a>
@@ -95,8 +95,9 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
 </p>
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muthuwebdeveloper13&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
-</p>
+---
+> "I believe in learning continuously, building consistently, and letting my work speak for itself."
+
+---
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
